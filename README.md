@@ -32,9 +32,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Codecrafts-05/hands-on/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Codecrafts-05/hands-on/tree/master/0234-palindrome-linked-list) |
 ## Sliding Window
 |  |
 | ------- |
 | [0904-fruit-into-baskets](https://github.com/Codecrafts-05/hands-on/tree/master/0904-fruit-into-baskets) |
+## Math
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Codecrafts-05/hands-on/tree/master/0231-power-of-two) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Codecrafts-05/hands-on/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
