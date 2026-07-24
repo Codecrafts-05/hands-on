@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Codecrafts-05/hands-on/tree/master/0904-fruit-into-baskets) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Codecrafts-05/hands-on/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Codecrafts-05/hands-on/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3668-restore-finishing-order](https://github.com/Codecrafts-05/hands-on/tree/master/3668-restore-finishing-order) |
 | [3925-concatenate-array-with-reverse](https://github.com/Codecrafts-05/hands-on/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/Codecrafts-05/hands-on/tree/master/0575-distribute-candies) |
 | [0904-fruit-into-baskets](https://github.com/Codecrafts-05/hands-on/tree/master/0904-fruit-into-baskets) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Codecrafts-05/hands-on/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3668-restore-finishing-order](https://github.com/Codecrafts-05/hands-on/tree/master/3668-restore-finishing-order) |
 ## Counting
 |  |
 | ------- |
